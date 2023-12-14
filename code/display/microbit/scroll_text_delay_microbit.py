@@ -1,5 +1,13 @@
+# scroll_text_delay_microbit.py
+
+'''
+Description: Demonstrate scroll text with various delays.
+'''
+
+# Import modules
 from microbit import *
 
+# Run loop forever
 while True:
     display.scroll('Python', delay=100) # Scroll text with 100ms delay``
     sleep(1000)                         # Wait 1 second
