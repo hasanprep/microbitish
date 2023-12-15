@@ -2,4 +2,10 @@
 
 # microbitish
 
- Examples for micro:bit form factor boards
+ Examples for micro:bit form factor boards.
+
+
+
+## Boards
+
+BBC micro:bit
