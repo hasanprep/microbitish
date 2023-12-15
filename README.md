@@ -8,4 +8,4 @@
 
 ## Boards
 
-BBC micro:bit
+[BBC micro:bit](boards/bbc-microbit)
