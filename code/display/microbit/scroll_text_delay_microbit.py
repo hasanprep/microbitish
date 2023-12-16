@@ -2,6 +2,7 @@
 
 '''
 Description: Demonstrate scroll text with various delays.
+Note: The defsult delay with no delay parameter is 150ms.
 '''
 
 # Import modules
