@@ -7,7 +7,7 @@ Description: Demonstrate blinking one led.
 # Import modules
 from microbit import *
 
-# Set led pin to pin 1
+# Set led_pin to pin 1
 led_pin = pin1
 
 # Run loop forever

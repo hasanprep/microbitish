@@ -1,4 +1,4 @@
-# display_built_in_image.py
+# ddiplay_built_in_image_microbit.py
 
 '''
 Description: Display built-in images on the micro:bit

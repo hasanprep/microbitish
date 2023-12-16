@@ -11,8 +11,10 @@ from microbit import *
 # Disable display
 display.disable() # This enables pins 3, 4, 6, 7, and 10 without the display 
 
-led_pin = pin3    # Set led_pin to pin3
+# Set led_pin to pin3
+led_pin = pin3 
 
+# Run loop forever
 while True:
     led_pin.write_digital(1) # Turn LED on
     sleep(1000)              # Wait 1 second
